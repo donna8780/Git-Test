@@ -18,4 +18,10 @@ git 사용법)
 3. 변경이 발생하면 버전을 생성해서 관리할 수 있다.
 
 저장소 및 사용자 등록
-1. git init : 현재 폴더가 git 저장소로 초기화
+1. git init : 현재 폴더가 git 저장소로 초기화 숨김 폴더가 하나 만들어짐
+2. git config --global user.name[이름]
+3. git config --global user.name[email]
+4. git config --global list
+
+버전 생성
+
